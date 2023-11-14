@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1023392936660",
+    "project_id": "raglanma-party",
+    "storage_bucket": "raglanma-party.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1023392936660:android:37a44648b9a31e89fd4141",
+        "android_client_info": {
+          "package_name": "com.example.final_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4fHaRGZ_zaBhWhPdN1Hte1j9dAKJsRMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
